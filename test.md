@@ -1,1 +1,0 @@
-![for meme](for%20loop%20meme.jpg)
