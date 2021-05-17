@@ -1,4 +1,5 @@
 /photo
 */.ipynb_checkpoints
+*/*/.ipynb_checkpoints
 *.pptx
 *.xlsx
